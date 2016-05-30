@@ -5,9 +5,9 @@
 ** Circuitos                  ci010        ****
 ***********************************************
 ** Desplazamiento entre los puntos 0 y 1   ****
-** y regreso al 0 del circuito diseñado    ****
+** y regreso al 0 del circuito diseÃ±ado    ****
 ***********************************************
-** Con uso de métodos para manejo de motores **
+** Con uso de mÃ©todos para manejo de motores **
 ***********************************************
 */
 
