@@ -7,7 +7,7 @@
 ** Avance de 180 grados                    ****
 ** en una baldosa de 40 x 40 cm            ****
 ***********************************************
-** Con uso de métodos para control          ***
+** Con uso de mÃ©todos para control          ***
 ** de los motores                          ****
 ***********************************************
 */
