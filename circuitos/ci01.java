@@ -5,7 +5,7 @@
 ** Circuitos                  ci01         ****
 ***********************************************
 ** Desplazamiento entre los puntos 0 y 1   ****
-** del circuito diseñado                   ****
+** del circuito diseÃ±ado                   ****
 ***********************************************
 */
 
