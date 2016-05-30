@@ -7,7 +7,7 @@
 ** Avance en linea recta y retroceso       ****
 ** en una baldosa de 40 x 40 cm            ****
 ***********************************************
-** Con uso de métodos para control          ***
+** Con uso de mÃ©todos para control          ***
 ** de los motores                          ****
 ***********************************************
 */
@@ -21,7 +21,7 @@ public class mo04 {
 	 * @param args
 	 */
 
-	// Método de establecimieto de potencia de motores 
+	// MÃ©todo de establecimieto de potencia de motores 
 	// pasada como parametro
 	
 
@@ -31,7 +31,7 @@ public class mo04 {
 	  Motor.C.setPower(potencia);
 	}
 
-	// Método de avance hacia delante de los motores indicando 
+	// MÃ©todo de avance hacia delante de los motores indicando 
 	// el tiempo como parametro
 	
 	public static void avanza ( int milisegundos ) throws InterruptedException
@@ -41,7 +41,7 @@ public class mo04 {
 	  Thread.sleep(milisegundos);	  
 	}
 	
-	// Método de avance hacia detras de los motores indicando 
+	// MÃ©todo de avance hacia detras de los motores indicando 
 	// el tiempo como parametro
 
 	public static void retrocede ( int milisegundos ) throws InterruptedException
